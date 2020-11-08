@@ -1,0 +1,96 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Olayiwonuola 
+eastie71
+/
+fictional-university-theme
+1
+5
+5
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+fictional-university-theme/.gitignore
+@eastie71
+eastie71 Initial setup for using composer for WP and plugins
+Latest commit 0e4f844 on Aug 16
+ History
+ 1 contributor
+53 lines (49 sloc)  758 Bytes
+  
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+node_modules/
+.tmp/
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+_notes
+dwsync.xml
+
+app/local.php
+app/wp-config.php
+app/wp-content/advanced-cache.php
+app/wp-content/ai1wm-backups/
+app/wp-content/backup-db/
+app/wp-content/backups/
+app/wp-content/blogs.dir/
+app/wp-content/cache/
+app/wp-content/upgrade/
+app/wp-content/wp-cache-config.php
+app/wp-content/plugins/
+!app/wp-content/plugins/my-first-plugin/
+app/wp-content/vendor/
+app/wp-content/wflogs/
+app/wp/
+app/.user.ini
+
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
